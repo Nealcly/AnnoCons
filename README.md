@@ -1,2 +1,2 @@
 # AnnoCons
- A visualization and annotation tool for constituency tree
+The web-based platform to visulize and annotate constituency tree.
